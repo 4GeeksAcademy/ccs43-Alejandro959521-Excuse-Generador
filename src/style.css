@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  font-family: "Silkscreen", cursive;
+  background-image: url("https://fondosmil.com/fondo/28461.png");
+  displayjustify-content: center;
+  align-items: center;
+}
+.h {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
